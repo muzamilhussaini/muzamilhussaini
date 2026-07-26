@@ -16,7 +16,9 @@
 <h2 align="left">💫 About Me</h2>
 
 
-💻 Aspiring Full-Stack Web Developer | Pakistan 🇵🇰
+🎓 BS Information Technology - IT Student at BUITEMS (Baluchistan University of Information Technology, Engineering & Management Sciences)
+
+💻 Frontend Developer on the Path to Full-Stack Development
 
 💡 Passionate about creating useful and user-friendly web experiences
 
