@@ -16,7 +16,7 @@
 <h2 align="left">💫 About Me</h2>
 
 
-🎓 BS Information Technology - IT Student at BUITEMS (Baluchistan University of Information Technology, Engineering & Management Sciences)
+🎓 BS Information Technology - IT Student at BUITEMS University (Baluchistan University of Information Technology, Engineering & Management Sciences)
 
 💻 Frontend Developer on the Path to Full-Stack Development
 
