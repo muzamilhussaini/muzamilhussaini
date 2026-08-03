@@ -104,3 +104,6 @@ Consistency Creates Success
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+⭐+on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+😃;Keep+Learning+Keep+Building!;Happy+coding!+🚀" alt="Typing SVG">
+</p>
