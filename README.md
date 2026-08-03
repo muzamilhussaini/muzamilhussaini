@@ -4,6 +4,12 @@
 
 <h2 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h2>
 
+<p align="center">
+  <a href="https://my-resume0011.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
+  </a>
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=Hey,+I'm+Muzamil;Aspiring+Full+Stack+Web+Developer;Consistency+Creates+Success;Turning+Ideas+Into+Code;Never+Stop+Learning" />
 </h3>
