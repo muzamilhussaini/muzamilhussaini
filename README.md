@@ -5,8 +5,12 @@
 <h2 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h2>
 
 <p align="center">
-  <a href="https://my-resume0011.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="View Resume">
+  <a href="https://muzamiljs.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
+
+  <a href="https://my-resume0011.netlify.app/">
+    <img src="https://img.shields.io/badge/View_Resume-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
