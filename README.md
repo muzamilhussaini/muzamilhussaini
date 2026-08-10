@@ -8,10 +8,6 @@
   <a href="https://muzamiljs.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
-
-  <a href="https://my-resume0011.netlify.app/">
-    <img src="https://img.shields.io/badge/View_Resume-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
 </p>
 
 <h3 align="center">
