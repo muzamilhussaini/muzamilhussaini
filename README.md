@@ -83,6 +83,7 @@ Consistency Creates Success
  <img src="https://raw.githubusercontent.com/muzamilhussaini/muzamilhussaini/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+
 <p align="center">
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
@@ -93,6 +94,12 @@ Consistency Creates Success
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussaini&theme=tokyo-night" />
 </p>
 
+<h2 align="center">🌈 3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -100,7 +107,6 @@ Consistency Creates Success
   &nbsp;
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzamilhussaini&theme=github_dark" />
 </p>
-
 
 
 <p align="center">
