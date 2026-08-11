@@ -19,7 +19,7 @@ jobs:
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: muzamil-dev-313
+          github_user_name: muzamilhussaini
 
       - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
