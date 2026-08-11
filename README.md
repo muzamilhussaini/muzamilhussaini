@@ -60,11 +60,6 @@ Consistency Creates Success
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
-</p>
-
-
 <h2 align="left">📬 Connect With Me</h2>
 
 <p align="left">
@@ -83,21 +78,17 @@ Consistency Creates Success
  <img src="https://raw.githubusercontent.com/muzamilhussaini/muzamilhussaini/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-
-<p align="center">
-  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
-</p>
-
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussaini&theme=tokyo-night" />
 </p>
 
+
 <h2 align="center">🌈 3D Contribution Graph</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
@@ -108,6 +99,9 @@ Consistency Creates Success
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzamilhussaini&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+⭐+on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+😃;Keep+Learning+Keep+Building!;Happy+coding!+🚀" alt="Typing SVG">
