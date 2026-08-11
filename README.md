@@ -2,6 +2,8 @@
  <img width="480" height="274" alt="giphy" src="https://github.com/user-attachments/assets/289754f3-e332-41ea-acbb-b6f53f2a2f93" />
 </div>
 
+
+
 <h2 align="center">A passionate Full-Stack Developer from Pakistan 🇵🇰</h2>
 
 <p align="center">
@@ -94,10 +96,12 @@ Consistency Creates Success
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=muzamil-dev-313&show_icons=true&theme=dark" />
+  <img height="200em" src="https://github-readme-stats.shion.dev/api?username=muzamilhussaini&show_icons=true&theme=dark" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzamilhussaini&theme=github_dark" />
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+⭐+on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+😃;Keep+Learning+Keep+Building!;Happy+coding!+🚀" alt="Typing SVG">
