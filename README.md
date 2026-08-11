@@ -17,7 +17,7 @@
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=muzamil-dev-313&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=muzamilhussaini&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <h2 align="left">💫 About Me</h2>
 
@@ -78,21 +78,17 @@ Consistency Creates Success
 <h2 align="center">Pacman Contribution Graph</h2>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/muzamil-dev-313/muzamil-dev-313/refs/heads/output/pacman-contribution-graph-dark.svg" />
+ <img src="https://raw.githubusercontent.com/muzamilhussaini/muzamilhussaini/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
 
-<h2 align="center">🔥 Contribution Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-dev-313&theme=dark" />
-</p>
-<br>
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussaini&theme=tokyo-night" />
 </p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
@@ -102,7 +98,6 @@ Consistency Creates Success
   &nbsp;
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muzamil-dev-313&theme=dark&layout=compact" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+⭐+on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+😃;Keep+Learning+Keep+Building!;Happy+coding!+🚀" alt="Typing SVG">
