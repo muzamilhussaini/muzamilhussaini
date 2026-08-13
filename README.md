@@ -84,13 +84,6 @@ Consistency Creates Success
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussaini&theme=tokyo-night" />
 </p>
 
-
-<h2 align="center">🌈 3D Contribution Graph</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-</p>
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
