@@ -66,6 +66,9 @@ Consistency Creates Success
   <a href="https://www.instagram.com/_.mz4_11__/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
   </a>
+  <a href="https://www.linkedin.com/in/muzamil-hussaini-62494b346/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
+  </a>
 </p>
 
 <p align="center">
