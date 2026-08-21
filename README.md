@@ -57,10 +57,10 @@ Consistency Creates Success
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
-<h2 align="left">📬 Connect With Me</h2>
+<h3 align="left">📬 Connect With Me On</h3>
 
 <p align="left">
   <a href="https://www.instagram.com/_.mz4_11__/">
