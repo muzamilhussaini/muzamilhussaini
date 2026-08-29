@@ -82,12 +82,6 @@ Consistency Creates Success
  <img src="https://raw.githubusercontent.com/muzamilhussaini/muzamilhussaini/refs/heads/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamilhussaini&theme=tokyo-night" />
-</p>
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
