@@ -12,6 +12,7 @@
   </a>
 </p>
 
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&center=true&vCenter=true&width=550&color=8B5CF6&lines=Hey,+I'm+Muzamil;Aspiring+Full+Stack+Web+Developer;Consistency+Creates+Success;Turning+Ideas+Into+Code;Never+Stop+Learning" />
 </h3>
@@ -22,7 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=muzamilhussaini&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 <h2 align="left">💫 About Me</h2>
-
 
 🎓 BS Information Technology - IT Student at BUITEMS University (Baluchistan University of Information Technology, Engineering & Management Sciences)
 
@@ -85,8 +85,8 @@ Consistency Creates Success
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.shion.dev/api?username=muzamilhussaini&show_icons=true&theme=dark" />
-  &nbsp;
+   <img src="https://github-stats-extended.vercel.app/api?username=muzamilhussaini&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&v=2" width="480"
+    height="200" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzamilhussaini&theme=github_dark" />
 </p>
 
