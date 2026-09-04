@@ -85,9 +85,14 @@ Consistency Creates Success
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-   <img src="https://github-stats-extended.vercel.app/api?username=muzamilhussaini&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&v=2" width="480"
-    height="200" />
+   <p align="center">
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=muzamilhussaini&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&v=2"
+    width="450"
+    height="200"
+  />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muzamilhussaini&theme=github_dark" />
+</p>
 </p>
 
 <p align="center">
