@@ -60,11 +60,6 @@ Consistency Creates Success
   <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,tailwindcss,bootstrap" />
 </p>
 
-<<!-- Tailblock -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="tailblock" />
-<!-- GSAP -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg" width="48" height="48" alt="gsap" />
-
 
 <h3 align="left">📬 Connect With Me On</h3>
 
