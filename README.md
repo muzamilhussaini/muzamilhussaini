@@ -57,7 +57,7 @@ Consistency Creates Success
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,tailwindcss" />
 </p>
 
 <h3 align="left">📬 Connect With Me On</h3>
