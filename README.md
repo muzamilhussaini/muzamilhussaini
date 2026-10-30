@@ -50,20 +50,20 @@ Consistency Creates Success
   <img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" />
 </p>
 
-<h2 align="left">
+<h2 align="center">
   <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" width="35" valign="middle" />
   My Tech Arsenal
 </h2>
 
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,tailwindcss,bootstrap" />
 </p>
 
 
-<h3 align="left">📬 Connect With Me On</h3>
+<h3 align="center">📬 Connect With Me On</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/_.mz4_11__/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
    
