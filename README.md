@@ -39,8 +39,6 @@ Become a Professional Software Engineer and Full-Stack Developer
 
 🚀 Currently building strong fundamentals, solving problems, and creating real-world projects.
 
-🌱 Preparing to dive into React and the modern frontend ecosystem
-
 ✨ Motto:
 Consistency Creates Success
 
